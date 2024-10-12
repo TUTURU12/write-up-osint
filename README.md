@@ -7,3 +7,4 @@ RawSEC aktif dalam mengedalikan acara CTF di seluruh Malaysia. Mereka telah berj
 
 Answer: i go to the google and i search about RawSEC . After that i see the latest event and i found this post and get the flag
 ![image](https://github.com/user-attachments/assets/65a23a51-53f5-4295-b4f6-7ea0150a5252)
+![image](https://github.com/user-attachments/assets/8a2c0136-aa86-415c-8e83-146a95108ef6)
