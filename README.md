@@ -8,3 +8,16 @@ RawSEC aktif dalam mengedalikan acara CTF di seluruh Malaysia. Mereka telah berj
 Answer: i go to the google and i search about RawSEC . After that i see the latest event and i found this post and get the flag
 ![image](https://github.com/user-attachments/assets/65a23a51-53f5-4295-b4f6-7ea0150a5252)
 ![image](https://github.com/user-attachments/assets/8a2c0136-aa86-415c-8e83-146a95108ef6)
+Flag: 3108{rembulan_UCTATI}
+
+#Question 2: Malayan Union
+
+Question:
+KAMI BANTAH! KAMI BANTAH!
+
+Malayan Union perlu dihapuskan! Kami mahu Raja-Raja kami semula! Mesej bergambar ini untuk menyampaikan berita ini kepada pihak atasan!
+
+Format Flag: 3108{nama_tempat}
+
+img
+https://postimg.cc/7fWKJdsW
