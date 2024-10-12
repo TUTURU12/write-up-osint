@@ -5,7 +5,9 @@ Question:
 
 RawSEC aktif dalam mengedalikan acara CTF di seluruh Malaysia. Mereka telah berjaya mengadakan beberapa siri CTF yang telah berlangsung di Utara, Selantan, Sentral dan juga Pantai Timur. Apakah nama CTF paling terbaru diadakan oleh RawSEC dan di manakah acara itu berlangsung? Format flag: 3108{namactf_namatempat}
 
-Answer: i go to the google and i search about RawSEC . After that i see the latest event and i found this post and get the flag.
+Answer:
+i go to the google and i search about RawSEC . After that i see the latest event and i found this post and get the flag.
+
 ![image](https://github.com/user-attachments/assets/65a23a51-53f5-4295-b4f6-7ea0150a5252)
 ![image](https://github.com/user-attachments/assets/8a2c0136-aa86-415c-8e83-146a95108ef6)
 Flag: 3108{rembulan_UCTATI}
@@ -20,11 +22,13 @@ Malayan Union perlu dihapuskan! Kami mahu Raja-Raja kami semula! Mesej bergambar
 Format Flag: 3108{nama_tempat}
 
 img:
+
 https://postimg.cc/7fWKJdsW
 
 Hint: JOHOR
 
 Answer:
+
 ![image](https://github.com/user-attachments/assets/7115ee3d-da95-45fb-9d1a-433f8f84f134)
 
 the hint is johor , so i go to chatgpt and ask more information about malay union in johor.
