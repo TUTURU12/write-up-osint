@@ -6,6 +6,7 @@ Question:
 RawSEC aktif dalam mengedalikan acara CTF di seluruh Malaysia. Mereka telah berjaya mengadakan beberapa siri CTF yang telah berlangsung di Utara, Selantan, Sentral dan juga Pantai Timur. Apakah nama CTF paling terbaru diadakan oleh RawSEC dan di manakah acara itu berlangsung? Format flag: 3108{namactf_namatempat}
 
 Answer:
+
 i go to the google and i search about RawSEC . After that i see the latest event and i found this post and get the flag.
 
 ![image](https://github.com/user-attachments/assets/65a23a51-53f5-4295-b4f6-7ea0150a5252)
@@ -32,6 +33,7 @@ Answer:
 ![image](https://github.com/user-attachments/assets/7115ee3d-da95-45fb-9d1a-433f8f84f134)
 
 the hint is johor , so i go to chatgpt and ask more information about malay union in johor.
+
 Flag: 3108{Istana_Besar}
 
 # Question 3: Gallery
@@ -46,8 +48,10 @@ https://drive.google.com/file/d/1aw66UkDVQWr13KBuShpJriacNxZD0ccp/view?usp=shari
 
 Answer:
 This challenge give the picture so i use (google search) for this image and i just found related to Ilham Gallery.
+
 ![image](https://github.com/user-attachments/assets/0c2cea54-bd9a-40e4-bbea-272e9dfc9b7c)
 ![image](https://github.com/user-attachments/assets/d0b162c0-ff5a-404c-88a1-fbe6de1b0de2)
+
 Flag: CTF{Ilham_Gallery}
 
 # Question 4: Gallery2
@@ -65,6 +69,7 @@ Answer:
 the challange ask about model of camera , so i go to the exif online and i got the model of camera.
 ![image](https://github.com/user-attachments/assets/48720874-9334-4c3b-b5f0-9c722c072463)
 ![image](https://github.com/user-attachments/assets/366460b0-9ed4-4c99-b2a3-e798589e52fe)
+
 Flag: CTF{OPPO_A76}
 
 # Question 5: Gallery3
@@ -80,6 +85,7 @@ Answer:
 using exif pilot software i found the time that photo taken.
 ![image](https://github.com/user-attachments/assets/a9fa5037-bff0-439e-98ab-8899a4dfcfd8)
 ![image](https://github.com/user-attachments/assets/3d5b3d63-a839-4425-90bc-76603cf6b4be)
+
 Flag: CTF{2024-04-09_13:52:15}
 
 # Question 6: Gallery4
@@ -93,6 +99,7 @@ Answer:
 since the pictue are at the ilham gallery , i go to the website of that gallery and i found registration number gallery.
 ![image](https://github.com/user-attachments/assets/7b56aced-a14c-4af3-912a-18c7f726347d)
 ![image](https://github.com/user-attachments/assets/b0eb733e-cd98-43a3-a363-3f81320e8c1e)
+
 Flag: CTF{1300502-A}
 
 
